@@ -1,6 +1,6 @@
 # M3O Weather API Service by FastAPI+Aiohttp
 
-
+![swagger docs](./docs/images/swagger.png)
 ## Local development
 
 1) ### Go to given at [m3o.com](https://m3o.com/) and take your token
